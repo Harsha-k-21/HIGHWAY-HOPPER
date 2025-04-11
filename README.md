@@ -2,8 +2,6 @@
 
 **Highway Hopper** is a fast-paced, arcade-style 3D traffic runner game built with [Three.js](https://threejs.org/). Dash across busy roads, dodge oncoming traffic, and test your reflexes as you aim for the highest score!
 
-![Game Screenshot](screenshot.png) <!-- Replace with actual image path if available -->
-
 ---
 
 ## 🚀 Features
